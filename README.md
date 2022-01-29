@@ -1,5 +1,4 @@
-#Spring Boot OAuth 2.0 Client + MySQL
-
+# Spring Boot OAuth 2.0 Client + MySQL
 ---
 
 ## 1. What is OAuth 2.0 ?
